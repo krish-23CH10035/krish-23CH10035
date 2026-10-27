@@ -1,0 +1,8 @@
+Krish Sahu GitHub Profile Kit
+
+README.md                    Profile README to copy into the special GitHub profile repository
+assets/hero.gif              Custom animated banner
+assets/architecture.gif      Custom animated stack-flow diagram
+assets/*-preview.png         Static preview images
+.github/workflows/snake.yml  Optional contribution-snake workflow
+SETUP.md                     Installation and GitHub Actions instructions
